@@ -1,5 +1,5 @@
-# NL2SQL
-NL2SQL seeks to transform natural language questions to SQL, allowing individuals to run unstructured queries against databases.
+# ANNA
+ANNA seeks to transform natural language questions to SQL, allowing individuals to run unstructured queries against databases.
 
 ## Dependencies
 
